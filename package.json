@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "9.4.4",
+    "next": "11.1.0",
     "preact": "^10.4.4",
     "preact-render-to-string": "^5.1.9",
     "react": "github:preact-compat/react#1.0.0",
